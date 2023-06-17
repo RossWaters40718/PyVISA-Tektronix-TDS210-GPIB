@@ -1,5 +1,5 @@
 # PyVISA-Tektronix-TDS210-GPIB
-PyVISA/NIVISA Intrface For Tektronix TDS 210/220 Oscilloscope
+PyVISA/NIVISA Interrface For Tektronix TDS 210/220 Oscilloscope
 ########### REQUIREMENTS ##########
     # NI VISA For Windows 11 64 Bit, (2022 Q3) Or (2023 Q2) Installed
     # PyVISA 1.13.0 Or Latest Version
